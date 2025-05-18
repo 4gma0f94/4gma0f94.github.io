@@ -3,4 +3,4 @@ layout: none
 permalink: .well-known/tor-relay/hashed-bridge-rsa-fingerprint.txt
 ---
 
-6256E171316E7AAA13753A5148464774C7559CAE
+70EF8C997D77D10F95CD0E20AB7F66AC5A5EA0CE
